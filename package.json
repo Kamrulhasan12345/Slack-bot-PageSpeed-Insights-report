@@ -1,0 +1,22 @@
+{
+  "name": "slack-bot-pagespeed-insights-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamrulhasan12345/Slack-bot-PageSpeed-Insights-report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamrulhasan12345/Slack-bot-PageSpeed-Insights-report/issues"
+  },
+  "homepage": "https://github.com/Kamrulhasan12345/Slack-bot-PageSpeed-Insights-report#readme",
+  "dependencies": {
+    "psi": "^4.1.0"
+  }
+}
